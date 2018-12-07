@@ -1,0 +1,70 @@
+h3{
+  font-size: 25px;
+  padding: 5px;
+}
+
+
+.outerbox{
+  padding: 10px;
+  width: 400px;
+  height: 750px;
+  border: .25rem outset black;
+  background-color:#ffa64d;
+}
+.box {
+
+  padding: 15px;
+  width: 350px;
+  height: 200px;
+  border: .15rem outset black;
+  padding-top: 5px;
+  padding-bottom: 20px;
+  box-shadow: 5px 5px #cc6600;
+
+
+}
+
+
+.info{
+  width: 350px;
+  height: 350px;
+  padding: 20px;
+  border: .15rem  outset black;
+  margin-top: 10px;
+  box-shadow: 5px 5px #cc6600;
+}
+.italic{
+  font-style: italic;
+}
+
+
+
+img {
+  width: 325px;
+  margin-bottom: auto;
+
+
+}
+p{
+
+  font-size: 20px;
+}
+span {
+  font-weight: bold;
+  font-size: 20px;
+  display: inline-block;
+
+
+  }/* add your CSS here */
+  li{
+
+    list-style: none;
+    display:
+
+  }
+
+  ul{
+    text-align: left;
+    margin: 0; padding: 0;
+
+  }
